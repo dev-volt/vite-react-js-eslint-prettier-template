@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true, 
+    "eslint.alwaysShowStatus": true, 
+    "prettier.singleQuote": false,
+    "prettier.trailingComma": "es5",
+}
+
